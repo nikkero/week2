@@ -1,0 +1,23 @@
+{
+  "name": "week2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikkero/week2.git"
+  },
+  "author": "nikkero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikkero/week2/issues"
+  },
+  "homepage": "https://github.com/nikkero/week2#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
